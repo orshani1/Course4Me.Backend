@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\bin\Debug\net6.0\Course4Me.Logic.deps.json
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\bin\Debug\net6.0\Course4Me.Logic.dll
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\bin\Debug\net6.0\ref\Course4Me.Logic.dll
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\bin\Debug\net6.0\Course4Me.Logic.pdb
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\obj\Debug\net6.0\Course4Me.Logic.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\obj\Debug\net6.0\Course4Me.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\obj\Debug\net6.0\Course4Me.Logic.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\obj\Debug\net6.0\Course4Me.Logic.AssemblyInfo.cs
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\obj\Debug\net6.0\Course4Me.Logic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\obj\Debug\net6.0\Course4Me.Logic.dll
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\obj\Debug\net6.0\ref\Course4Me.Logic.dll
+C:\Users\user\Desktop\softwaredev\Web\finalProject\Backend\Course4Me_ServerSide\Course4Me.Logic\obj\Debug\net6.0\Course4Me.Logic.pdb
